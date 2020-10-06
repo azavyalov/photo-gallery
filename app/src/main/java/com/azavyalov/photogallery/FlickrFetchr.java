@@ -15,7 +15,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FlickFetchr {
+public class FlickrFetchr {
 
     private static final String TAG = "FlickrFetcher";
     private static final String API_KEY = "cdc516608ff8f7d267e8e32acade9af0";
